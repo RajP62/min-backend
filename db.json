@@ -1,0 +1,10 @@
+{
+    "products":[
+        {"name":"Coke", "price":60},
+        {"name":"Burger", "price":59}
+    ],
+    "users":[
+        {"name":"Ram", "profession":"Developer"},
+        {"name":"shyam", "profession":"Architect"}
+    ]
+}
